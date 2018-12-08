@@ -1,0 +1,70 @@
+%YAML 1.1
+---
+actions:
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_courses_conducted
+- utter_course_certificate
+- utter_pay_course_fees
+- utter_install_programs
+config:
+  store_entities_as_slots: true
+entities: []
+forms: []
+intents:
+- greet:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- mood_affirm:
+    use_entities: true
+- mood_deny:
+    use_entities: true
+- mood_great:
+    use_entities: true
+- mood_unhappy:
+    use_entities: true
+- courses_conducted:
+    use_entities: true
+- course_certificate:
+    use_entities: true
+- pay_course_fees:
+    use_entities: true
+- install_programs:
+    use_entities: true
+slots: {}
+templates:
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_course_certificate:
+  - text: Yes. There are courses requiring only completing the lectures; other courses
+      require you to submit assignments. So simply, to earn a course certificate you
+      must complete the course requirements mentioned on the course page.
+  utter_courses_conducted:
+  - text: GoTrained courses are conducted online. There are live courses and recorded
+      courses. You are not required to move elsewhere to join one of our courses;
+      you can attend the lectures anywhere from your computer or mobile phone.
+  - text: There are live courses and recorded courses. You are not required to move
+      elsewhere to join one of our courses; you can attend the lectures anywhere from
+      your computer or mobile phone.
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_goodbye:
+  - text: Bye
+  utter_greet:
+  - text: Hey! How are you?
+  utter_happy:
+  - text: Great carry on!
+  utter_install_programs:
+  - text: Usually, you can attend lectures using your computer browser. Live webinars
+      may ask you to download a small free program. For attending courses on your
+      mobile phone (live or recorded), there is usually a free mobile app for a better
+      experience.
+  utter_pay_course_fees:
+  - text: If a course is free, you do not have to pay any fee. If a course is paid,
+      we accept many payment methods including Credit/Debit Cards, Payoneer, PayPal,
+      Skrill, and Bank Transfers.

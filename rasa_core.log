@@ -1,0 +1,182 @@
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5002
+Sending message: Hey! How are you?
+Sending message: Great carry on!
+Sending message: Hey! How are you?
+Sending message: Hey! How are you?
+Sending message: Hey! How are you?
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5002
+Sending message: Hey! How are you?
+Sending message: Great carry on!
+Sending message: Bye
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5002
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5002
+Sending message: GoTrained courses are conducted online. There are live courses and recorded courses. You are not required to move elsewhere to join one of our courses; you can attend the lectures anywhere from your computer or mobile phone.
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5002
+Sending message: There are live courses and recorded courses. You are not required to move elsewhere to join one of our courses; you can attend the lectures anywhere from your computer or mobile phone.
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5002
+Sending message: There are live courses and recorded courses. You are not required to move elsewhere to join one of our courses; you can attend the lectures anywhere from your computer or mobile phone.
+Sending message: Yes. There are courses requiring only completing the lectures; other courses require you to submit assignments. So simply, to earn a course certificate you must complete the course requirements mentioned on the course page.
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5002
+Sending message: Yes. There are courses requiring only completing the lectures; other courses require you to submit assignments. So simply, to earn a course certificate you must complete the course requirements mentioned on the course page.
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5002
+Sending message: Usually, you can attend lectures using your computer browser. Live webinars may ask you to download a small free program. For attending courses on your mobile phone (live or recorded), there is usually a free mobile app for a better experience.
+Sending message: If a course is free, you do not have to pay any fee. If a course is paid, we accept many payment methods including Credit/Debit Cards, Payoneer, PayPal, Skrill, and Bank Transfers.

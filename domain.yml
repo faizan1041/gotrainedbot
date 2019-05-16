@@ -24,6 +24,7 @@ actions:
 templates:
   utter_greet:
   - text: "Hey! How are you?"
+  - text: "Hey!"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"

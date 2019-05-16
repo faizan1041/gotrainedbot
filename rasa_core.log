@@ -180,3 +180,58 @@ In most other cases you should consider using 'safe_load(stream)'
 Rasa Core server is up and running on http://localhost:5002
 Sending message: Usually, you can attend lectures using your computer browser. Live webinars may ask you to download a small free program. For attending courses on your mobile phone (live or recorded), there is usually a free mobile app for a better experience.
 Sending message: If a course is free, you do not have to pay any fee. If a course is paid, we accept many payment methods including Credit/Debit Cards, Payoneer, PayPal, Skrill, and Bank Transfers.
+Rasa process starting
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu/intent_classifier_tensorflow_embedding.ckpt
+/home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5002
+Sending message: If a course is free, you do not have to pay any fee. If a course is paid, we accept many payment methods including Credit/Debit Cards, Payoneer, PayPal, Skrill, and Bank Transfers.
+Rasa process starting
+From /home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from models/current/nlu/component_5_EmbeddingIntentClassifier.ckpt
+Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+Scheduler started
+From /home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/tensorflow/python/ops/resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/tensorflow/python/keras/backend.py:4010: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+From /home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+Rasa Core server is up and running on http://localhost:5002
+Sending message: Hey! How are you?
+Rasa process starting
+From /home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from models/current/nlu/component_5_EmbeddingIntentClassifier.ckpt
+Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+Scheduler started
+From /home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/tensorflow/python/ops/resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/tensorflow/python/keras/backend.py:4010: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+From /home/faizan/code/chatbot-dev/rasa/gotrainedbot/env/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+Rasa Core server is up and running on http://localhost:5002

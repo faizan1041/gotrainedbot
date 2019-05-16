@@ -57,6 +57,7 @@ templates:
   - text: Bye
   utter_greet:
   - text: Hey! How are you?
+  - text: Hey!
   utter_happy:
   - text: Great carry on!
   utter_install_programs:
